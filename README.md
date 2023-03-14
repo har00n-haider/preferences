@@ -1,6 +1,7 @@
 ## Keyboard preferences
 ### unreal location 
 
+Editor > Editor preferences > Keyboard shortcuts > import
 
 ### unity location 
 
